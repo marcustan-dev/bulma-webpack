@@ -1,0 +1,25 @@
+{
+  "name": "bulma-webpack",
+  "version": "1.0.0",
+  "description": "bulma-webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcustan-dev/bulma-webpack.git"
+  },
+  "keywords": [
+    "bulma",
+    "webpack",
+    "css",
+    "flexbox"
+  ],
+  "author": "Marcus Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcustan-dev/bulma-webpack/issues"
+  },
+  "homepage": "https://github.com/marcustan-dev/bulma-webpack#readme"
+}
